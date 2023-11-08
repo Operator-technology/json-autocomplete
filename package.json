@@ -1,0 +1,20 @@
+{
+  "name": "json-autocomplete",
+  "version": "1.0.0",
+  "description": "Complete unfinished JSON streamed in by LLMs (Like OpenAI's GPT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "autocomplete",
+    "OpenAI",
+    "LLM",
+    "AI",
+    "streamed",
+    "socket.io"
+  ],
+  "author": "Joel Tankard",
+  "license": "MIT"
+}
