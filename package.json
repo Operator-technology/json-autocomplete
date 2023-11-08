@@ -1,6 +1,6 @@
 {
   "name": "json-autocomplete",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Complete unfinished JSON streamed in by LLMs (Like OpenAI's GPT)",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,14 @@
     "streamed",
     "socket.io"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Operator-technology/json-autocomplete.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Operator-technology/json-autocomplete/issues"
+  },
+  "homepage": "https://github.com/Operator-technology/json-autocomplete#readme",
   "author": "Joel Tankard",
   "license": "MIT"
 }
