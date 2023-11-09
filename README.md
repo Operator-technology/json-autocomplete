@@ -28,12 +28,12 @@ Import `jsonAutocomplete` and pass incomplete JSON strings to get them completed
 const jsonAutocomplete = require("json-autocomplete");
 
 // Completing LLM Output
-const incompleteLLMOutput = '{ "items": [ { "name": "Appl';
-console.log(jsonAutocomplete(incompleteLLMOutput)); // Outputs: { "items": [ { "name": "Appl" } ] }
+const incompleteLLMOutput = '{"items":[{"name":"Appl';
+console.log(jsonAutocomplete(incompleteLLMOutput)); // Outputs: {"items":[{"name":"Appl"}]}
 
 // Handling Incomplete Keys
-const incompleteKeyJson = '{"user": { "id": 123, "nam';
-console.log(jsonAutocomplete(incompleteKeyJson)); // Outputs: {"user": { "id": 123, "nam": null } }
+const incompleteKeyJson = '{"user":{"id":123,"nam';
+console.log(jsonAutocomplete(incompleteKeyJson)); // Outputs: {"user":{"id":123}}
 ```
 
 ## Features
