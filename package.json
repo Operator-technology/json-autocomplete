@@ -1,6 +1,6 @@
 {
   "name": "json-autocomplete",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Complete unfinished JSON streamed in by LLMs (Like OpenAI's GPT)",
   "main": "lib/index.js",
   "scripts": {
