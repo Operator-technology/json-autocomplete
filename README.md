@@ -1,4 +1,6 @@
-# JSON Autocomplete - Lightweight (1KB) and dependency-free
+# JSON Autocomplete
+
+### Lightweight (1KB) and dependency-free
 
 JSON Autocomplete is designed to complete incomplete JSON strings. It's especially effective for handling partial outputs from Large Language Models (LLMs) like OpenAI's GPT.
 
@@ -47,3 +49,10 @@ Your contributions are welcome! For bug fixes, improvements, or feature addition
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Socials
+
+Follow us on Twitter!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/JoelTankard?style=social)](https://twitter.com/JoelTankard)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hamzehloui_m?style=social)](https://twitter.com/hamzehloui_m)
